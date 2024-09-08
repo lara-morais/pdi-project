@@ -1,0 +1,337 @@
+Nome da classe: 0_Apple
+
+Código da classe: 0
+
+Dimensão dos arquivos: 550x660 
+
+Formato: pgn
+
+Nome dos arquivos: 0-1-V1-B.png
+0-1-V1-W.png
+0-1-V2-B.png
+0-1-V2-W.png
+0-2-V1-B.png
+0-2-V1-W.png
+0-2-V2-B.png
+0-2-V2-W.png
+0-3-V1-B.png
+0-3-V1-W.png
+0-3-V2-B.png
+0-3-V2-W.png
+0-4-V1-B.png
+0-4-V1-W.png
+0-4-V2-B.png
+0-4-V2-W.png
+0-5-V1-B.png
+0-5-V1-W.png
+0-5-V2-B.png
+0-5-V2-W.png
+
+Dispositivo de captura: iphone 15
+
+**********************************************************
+
+Nome da classe: 1_Bell-Pepper
+
+Código da classe: 1
+
+Dimensão dos arquivos: 550x660
+
+Formato: png
+
+Nome dos arquivos:
+
+1-1-V1-B.png
+1-1-V1-W.png
+1-1-V2-B.png
+1-1-V2-W.png
+1-2-V1-B.png
+1-2-V1-W.png
+1-2-V2-B.png
+1-2-V2-W.png
+1-3-V1-B.png
+1-3-V1-W.png
+1-3-V2-B.png
+1-3-V2-W.png
+1-4-V1-B.png
+1-4-V1-W.png
+1-4-V2-B.png
+1-4-V2-W.png
+1-5-V1-B.png
+1-5-V1-W.png
+1-5-V2-B.png
+1-5-V2-W.png
+
+Dispositivo de captura: iPhone 15
+
+**********************************************************
+
+Nome da classe: 2_Carrot
+
+Código da classe: 2
+
+Dimensão dos arquivos: 550x660
+
+Formato: png
+
+Nome dos arquivos:
+2-1-V1-B.png
+2-1-V1-W.png
+2-1-V2-B.png
+2-1-V2-W.png
+2-2-V1-B.png
+2-2-V1-W.png
+2-2-V2-B.png
+2-2-V2-W.png
+2-3-V1-B.png
+2-3-V1-W.png
+2-3-V2-B.png
+2-3-V2-W.png
+2-4-V1-B.png
+2-4-V1-W.png
+2-4-V2-B.png
+2-4-V2-W.png
+2-5-V1-B.png
+2-5-V1-W.png
+2-5-V2-B.png
+2-5-V2-W.png
+
+Dispositivo de captura: iPhone 15
+
+**********************************************************
+
+Nome da classe: 3_Cashew-Nut
+
+Código da classe: 3
+
+Dimensão dos arquivos: 550x660
+
+Formato: png
+
+Nome dos arquivos:
+3-1-V1-B.png
+3-1-V1-W.png
+3-1-V2-B.png
+3-1-V2-W.png
+3-2-V1-B.png
+3-2-V1-W.png
+3-2-V2-B.png
+3-2-V2-W.png
+3-3-V1-B.png
+3-3-V1-W.png
+3-3-V2-B.png
+3-3-V2-W.png
+3-4-V1-B.png
+3-4-V1-W.png
+3-4-V2-B.png
+3-4-V2-W.png
+3-5-V1-B.png
+3-5-V1-W.png
+3-5-V2-B.png
+3-5-V2-W.png
+
+Dispositivo de captura: iPhone 15
+
+**********************************************************
+
+Nome da classe: 4_Cauliflower
+
+Código da classe: 4
+
+Dimensão dos arquivos: 550x660
+
+Formato: png
+
+Nome dos arquivos:
+4-1-V1-B.png
+4-1-V1-W.png
+4-1-V2-B.png
+4-1-V2-W.png
+4-2-V1-B.png
+4-2-V1-W.png
+4-2-V2-B.png
+4-2-V2-W.png
+4-3-V1-B.png
+4-3-V1-W.png
+4-3-V2-B.png
+4-3-V2-W.png
+4-4-V1-B.png
+4-4-V1-W.png
+4-4-V2-B.png
+4-4-V2-W.png
+4-5-V1-B.png
+4-5-V1-W.png
+4-5-V2-B.png
+4-5-V2-W.png
+
+Dispositivo de captura: iPhone 15
+
+**********************************************************
+
+Nome da classe: 5_Garlic
+
+Código da classe: 5
+
+Dimensão dos arquivos: 550x660
+
+Formato: png
+
+Nome dos arquivos:
+5-1-V1-B.png
+5-1-V1-W.png
+5-1-V2-B.png
+5-1-V2-W.png
+5-2-V1-B.png
+5-2-V1-W.png
+5-2-V2-B.png
+5-2-V2-W.png
+5-3-V1-B.png
+5-3-V1-W.png
+5-3-V2-B.png
+5-3-V2-W.png
+5-4-V1-B.png
+5-4-V1-W.png
+5-4-V2-B.png
+5-4-V2-W.png
+5-5-V1-B.png
+5-5-V1-W.png
+5-5-V2-B.png
+5-5-V2-W.png
+
+Dispositivo de captura: iPhone 15
+
+**********************************************************
+
+Nome da classe: 6_Lemon
+
+Código da classe: 6
+
+Dimensão dos arquivos: 550x660
+
+Formato: png
+
+Nome dos arquivos:
+6-1-V1-B.png
+6-1-V1-W.png
+6-1-V2-B.png
+6-1-V2-W.png
+6-2-V1-B.png
+6-2-V1-W.png
+6-2-V2-B.png
+6-2-V2-W.png
+6-3-V1-B.png
+6-3-V1-W.png
+6-3-V2-B.png
+6-3-V2-W.png
+6-4-V1-B.png
+6-4-V1-W.png
+6-4-V2-B.png
+6-4-V2-W.png
+6-5-V1-B.png
+6-5-V1-W.png
+6-5-V2-B.png
+6-5-V2-W.png
+
+Dispositivo de captura: iPhone 15
+
+**********************************************************
+
+Nome da classe: 7_Nectarine
+
+Código da classe: 7
+
+Dimensão dos arquivos: 550x660
+
+Formato: png
+
+Nome dos arquivos:
+7-1-V1-B.png
+7-1-V1-W.png
+7-1-V2-B.png
+7-1-V2-W.png
+7-2-V1-B.png
+7-2-V1-W.png
+7-2-V2-B.png
+7-2-V2-W.png
+7-3-V1-B.png
+7-3-V1-W.png
+7-3-V2-B.png
+7-3-V2-W.png
+7-4-V1-B.png
+7-4-V1-W.png
+7-4-V2-B.png
+7-4-V2-W.png
+7-5-V1-B.png
+7-5-V1-W.png
+7-5-V2-B.png
+7-5-V2-W.png
+
+Dispositivo de captura: iPhone 15
+
+**********************************************************
+
+Nome da classe: 8_Okra
+
+Código da classe: 8
+
+Dimensão dos arquivos: 550x660
+
+Formato: png
+
+Nome dos arquivos:
+8-1-V1-B.png
+8-1-V1-W.png
+8-1-V2-B.png
+8-1-V2-W.png
+8-2-V1-B.png
+8-2-V1-W.png
+8-2-V2-B.png
+8-2-V2-W.png
+8-3-V1-B.png
+8-3-V1-W.png
+8-3-V2-B.png
+8-3-V2-W.png
+8-4-V1-B.png
+8-4-V1-W.png
+8-4-V2-B.png
+8-4-V2-W.png
+8-5-V1-B.png
+8-5-V1-W.png
+8-5-V2-B.png
+8-5-V2-W.png
+
+Dispositivo de captura: iPhone 15
+
+**********************************************************
+
+Nome da classe: 9_Pear
+
+Código da classe: 9
+
+Dimensão dos arquivos: 550x660
+
+Formato: png
+
+Nome dos arquivos:
+9-1-V1-B.png
+9-1-V1-W.png
+9-1-V2-B.png
+9-1-V2-W.png
+9-2-V1-B.png
+9-2-V1-W.png
+9-2-V2-B.png
+9-2-V2-W.png
+9-3-V1-B.png
+9-3-V1-W.png
+9-3-V2-B.png
+9-3-V2-W.png
+9-4-V1-B.png
+9-4-V1-W.png
+9-4-V2-B.png
+9-4-V2-W.png
+9-5-V1-B.png
+9-5-V1-W.png
+9-5-V2-B.png
+9-5-V2-W.png
+
+Dispositivo de captura: iPhone 15
